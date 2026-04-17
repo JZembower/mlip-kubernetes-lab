@@ -2,8 +2,6 @@
 
 How to completely tear down the current lab environment and start from scratch.
 
----
-
 ## Part 1: Tearing Down the Current Environment
 
 Run these commands in order. If any resource doesn't exist, the command will simply report "not found" and you can move on.
